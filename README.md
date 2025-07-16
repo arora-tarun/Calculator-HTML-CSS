@@ -4,7 +4,7 @@ A simple, responsive calculator web app built using **HTML**, **CSS**, and **Jav
 
 ## 🔗 Live Demo
 
-[Click here to try the calculator](https://arora-tarun.github.io/Calculator-HTML-CSS/)
+[Click here to try the calculator](https://calculator-html-css-five.vercel.app/)
 
 ## ✨ Features
 
